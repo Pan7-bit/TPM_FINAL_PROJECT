@@ -48,7 +48,7 @@
         <li><a href="#about">About</a></li>
         <li><a href="#faq">FAQ</a></li>
         <li><a href="#timeline">Timeline</a></li>
-        <a href="{{ route('getLoginPage') }}"><button>Login</button></a>
+        <a href="{{ route('login') }}"><button>Login</button></a>
         </ul>
     </nav>
 
